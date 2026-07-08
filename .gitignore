@@ -1,0 +1,13 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+student_faces/
+student_db.json
+sms_alert.py
+attendance.xlsx
+
+trainer.yml
+
+attendance_records/
+.vscode/
