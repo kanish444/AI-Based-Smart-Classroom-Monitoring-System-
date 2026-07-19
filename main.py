@@ -1,6 +1,3 @@
-import sys
-print("Starting...", flush=True)
-sys.stdout.flush()
 
 import cv2
 import tkinter as tk
